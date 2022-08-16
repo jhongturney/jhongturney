@@ -1,6 +1,6 @@
 # 👋 Hi/Hello/Howdy, I'm [Jason](https://www.linkedin.com/in/jhongturney) 🤠
 
-👷‍♂️ I work in Platform Operations at GitHub doing what I can to improve service uptime and resiliency!
+👷‍♂️ I work in Site Reliability Engineering at GitHub doing what I can to improve service uptime and resiliency!
 
 ### ⚡️ _Quick Facts_ ⚡️
 🧑🏻‍💻 I have an extensive background with VMware technologies, but am working with Azure and Kubernetes these days 🪄
